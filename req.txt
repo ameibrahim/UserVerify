@@ -1,0 +1,9 @@
+npm install
+deploy contract on remix for ABI and CONTRACT ADDRESS
+
+change address, network, explore and abi on verify and app js
+
+
+
+https://rpc-mumbai.maticvigil.com
+https://mumbai.polygonscan.com

@@ -135,18 +135,18 @@ button {
 }
 body {
   position: relative;
-  background: linear-gradient(to right,var(--second-color), var(--main-color));
+  background: #fff;
+  background-image: url(https://neu.edu.tr/wp-content/uploads/2020/09/08/dsc_01621.jpg);
   overflow-x: hidden;
 }
 .navbar-dark {
-  background: var(--nav-background) !important;
+  background: #fffbfb00 !important;
 }
 
 /* ------------------------------------------------------------ */
 
 /* Home Page */
 .home {
-  background-image: url(../assets/images/home5.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -233,7 +233,7 @@ section {
   align-items: center;
   border-radius: var(--border-radius);
   box-shadow: var(--box-shadow);
-  background-color: var(--boxes-color);
+  background-color: #2520205e;
 }
 
 input,
@@ -275,7 +275,7 @@ input,
   align-items: flex-start;
   font-weight: 600;
   color: var(--white);
-  background: var(--boxes-color);
+  background: #2520205e;
   border-radius: 10px;
   box-shadow: var(--box-shadow);
 }
